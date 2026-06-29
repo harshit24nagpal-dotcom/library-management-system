@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "ay27ex61s69lj8mj1dntdh",
+    "name": "System Admin",
+    "email": "admin@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.XRYlQV6xHK5QTj1Mmmv9JbvbIBTnM72",
+    "role": "admin",
+    "memberId": "LIB-1000",
+    "phone": "+1 (555) 010-0000",
+    "createdAt": "2026-06-29T13:21:47.708Z"
+  },
+  {
+    "_id": "zn3j68qmspftwwb9pwr8ar",
+    "name": "Harshit",
+    "email": "harshit@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.T5bprRyhX2PsO3OOAhURIiBFl01EMvq",
+    "role": "member",
+    "memberId": "LIB-1001",
+    "phone": "+1 (555) 010-0001",
+    "createdAt": "2026-06-29T13:21:47.714Z"
+  },
+  {
+    "_id": "8yg9cr6r6uxt5nxr4h3f5",
+    "name": "Nehal",
+    "email": "nehal@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.T5bprRyhX2PsO3OOAhURIiBFl01EMvq",
+    "role": "member",
+    "memberId": "LIB-1002",
+    "phone": "+1 (555) 010-0002",
+    "createdAt": "2026-06-29T13:21:47.718Z"
+  },
+  {
+    "_id": "hk4l3w4o5urlpam7j848l",
+    "name": "Kanika",
+    "email": "kanika@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.T5bprRyhX2PsO3OOAhURIiBFl01EMvq",
+    "role": "member",
+    "memberId": "LIB-1003",
+    "phone": "+1 (555) 010-0003",
+    "createdAt": "2026-06-29T13:21:47.722Z"
+  },
+  {
+    "_id": "12y7a7qmxmbgrr1a4gl94et",
+    "name": "Arpit",
+    "email": "arpit@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.T5bprRyhX2PsO3OOAhURIiBFl01EMvq",
+    "role": "member",
+    "memberId": "LIB-1004",
+    "phone": "+1 (555) 010-0004",
+    "createdAt": "2026-06-29T13:21:47.726Z"
+  },
+  {
+    "_id": "l6fmjcmaftbaxs4faa90tq",
+    "name": "Akshat",
+    "email": "akshat@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.T5bprRyhX2PsO3OOAhURIiBFl01EMvq",
+    "role": "member",
+    "memberId": "LIB-1005",
+    "phone": "+1 (555) 010-0005",
+    "createdAt": "2026-06-29T13:21:47.730Z"
+  },
+  {
+    "_id": "gy6pgd827iwhpwrid67ezi",
+    "name": "Prerak",
+    "email": "prerak@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.T5bprRyhX2PsO3OOAhURIiBFl01EMvq",
+    "role": "member",
+    "memberId": "LIB-1006",
+    "phone": "+1 (555) 010-0006",
+    "createdAt": "2026-06-29T13:21:47.733Z"
+  },
+  {
+    "_id": "006yorhc2cx045n1so5oojke",
+    "name": "Nishant",
+    "email": "nishant@lumina.com",
+    "password": "$2a$10$ttWEAt4xsw/8iuHOJsbY7.T5bprRyhX2PsO3OOAhURIiBFl01EMvq",
+    "role": "member",
+    "memberId": "LIB-1007",
+    "phone": "+1 (555) 010-0007",
+    "createdAt": "2026-06-29T13:21:47.737Z"
+  },
+  {
+    "_id": "p0nurgbkqp6ebt030k8bw",
+    "name": "Virat",
+    "email": "virat@lumina.com",
+    "password": "$2a$10$PdPjdaUBczxtwFp3L31dJe.jVirXxvxBruyuSsAB02sIfc8Aih7oG",
+    "phone": "6350531585",
+    "role": "member",
+    "memberId": "LIB-1009",
+    "createdAt": "2026-06-29T13:37:49.434Z"
+  }
+]

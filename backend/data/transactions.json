@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "ugdiugs0ac3mden6c3x6m",
+    "bookId": "1set6i3bqwo2r80a23xcgg",
+    "memberId": "zn3j68qmspftwwb9pwr8ar",
+    "issueDate": "2026-06-24T13:21:47.761Z",
+    "dueDate": "2026-07-08T13:21:47.761Z",
+    "status": "issued",
+    "issuedBy": "ay27ex61s69lj8mj1dntdh",
+    "createdAt": "2026-06-29T13:21:47.762Z"
+  },
+  {
+    "_id": "jgp4adzlqnq8ilz490e9zu",
+    "bookId": "56iiohmga7v11al5cung",
+    "memberId": "8yg9cr6r6uxt5nxr4h3f5",
+    "issueDate": "2026-06-14T13:21:47.764Z",
+    "dueDate": "2026-06-28T13:21:47.764Z",
+    "returnDate": "2026-06-27T13:21:47.764Z",
+    "status": "returned",
+    "issuedBy": "ay27ex61s69lj8mj1dntdh",
+    "createdAt": "2026-06-29T13:21:47.766Z"
+  },
+  {
+    "_id": "xdsek6nra5cll6j2bxd9o",
+    "bookId": "m3bf0lvcefasw5p5003dkq",
+    "memberId": "hk4l3w4o5urlpam7j848l",
+    "issueDate": "2026-06-09T13:21:47.768Z",
+    "dueDate": "2026-06-23T13:21:47.768Z",
+    "status": "overdue",
+    "fineAmount": 60,
+    "finePaid": false,
+    "issuedBy": "ay27ex61s69lj8mj1dntdh",
+    "createdAt": "2026-06-29T13:21:47.771Z"
+  },
+  {
+    "_id": "vta1cr8n3v8mf5nn19neo",
+    "bookId": "gnnicy4tbc2caicgf8ov9",
+    "memberId": "12y7a7qmxmbgrr1a4gl94et",
+    "issueDate": "2026-06-27T13:21:47.772Z",
+    "dueDate": "2026-07-11T13:21:47.772Z",
+    "status": "issued",
+    "issuedBy": "ay27ex61s69lj8mj1dntdh",
+    "createdAt": "2026-06-29T13:21:47.774Z"
+  }
+]

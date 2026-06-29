@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "1set6i3bqwo2r80a23xcgg",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "978-0132350884",
+    "genre": "Science",
+    "copies": 4,
+    "availableCopies": 3,
+    "rackLocation": "A1",
+    "createdAt": "2026-06-29T13:21:47.739Z"
+  },
+  {
+    "_id": "56iiohmga7v11al5cung",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "isbn": "978-0135957059",
+    "genre": "Software Engineering",
+    "copies": 4,
+    "availableCopies": 4,
+    "rackLocation": "A2",
+    "createdAt": "2026-06-29T13:21:47.742Z"
+  },
+  {
+    "_id": "m3bf0lvcefasw5p5003dkq",
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "isbn": "978-0201633610",
+    "genre": "Software Engineering",
+    "copies": 3,
+    "availableCopies": 2,
+    "rackLocation": "A3",
+    "createdAt": "2026-06-29T13:21:47.746Z"
+  },
+  {
+    "_id": "gnnicy4tbc2caicgf8ov9",
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson",
+    "isbn": "978-1491904244",
+    "genre": "JavaScript",
+    "copies": 6,
+    "availableCopies": 5,
+    "rackLocation": "B1",
+    "createdAt": "2026-06-29T13:21:47.750Z"
+  },
+  {
+    "_id": "ldd46uegf4it216h1k4xad",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "isbn": "978-0262033848",
+    "genre": "Computer Science",
+    "copies": 3,
+    "availableCopies": 3,
+    "rackLocation": "C1",
+    "createdAt": "2026-06-29T13:21:47.754Z"
+  },
+  {
+    "_id": "fuscd9vfroemcpi39mz93",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "isbn": "978-0307887894",
+    "genre": "Business",
+    "copies": 5,
+    "availableCopies": 5,
+    "rackLocation": "D1",
+    "createdAt": "2026-06-29T13:21:47.759Z"
+  }
+]
